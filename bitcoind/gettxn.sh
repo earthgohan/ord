@@ -1,0 +1,1 @@
+./bin/bitcoin-cli -conf=$(pwd)/bitcoin.conf gettransaction $1
